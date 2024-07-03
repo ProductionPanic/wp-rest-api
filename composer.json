@@ -1,0 +1,17 @@
+{
+    "name": "freekattema/wp-rest-api",
+    "description": "An easy to use replacement for the default wordpress way of defining custom routes and api routes",
+    "type": "wordpress-package",
+    "autoload": {
+        "psr-4": {
+            "Freekattema\\WpRestApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "freekattema",
+            "email": "freekattema@live.nl"
+        }
+    ],
+    "require": {}
+}
